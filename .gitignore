@@ -1,0 +1,20 @@
+# PowerShell
+*.ps1xml
+
+# Logs
+*.log
+
+# Editors
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
